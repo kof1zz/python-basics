@@ -8,7 +8,7 @@ Topics:
 - Variables
 - Data Types
 - Input and output
-(Right now learnings more topics)
+- (Right now learnings more topics)
 
 Progress:
 Started: September 2026
