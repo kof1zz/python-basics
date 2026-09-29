@@ -1,17 +1,17 @@
-# python-basics
+## python-basics
 My first Python programming exercises and fundamentals.
 
-About:
+## About:
 - This repository contains exercises I completed while learning the fundamentals of Python.
 
-Topics:
+## Topics:
 - Variables
 - Data Types
 - Input and output
 - Conditions
 - (Right now learnings more topics)
 
-Progress:
+## Progress:
 - Started: September 2026
 
 This repository documents my progress from beginner-level Python exercises toward building small projects.
