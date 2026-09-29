@@ -8,6 +8,7 @@ Topics:
 - Variables
 - Data Types
 - Input and output
+- Conditions
 - (Right now learnings more topics)
 
 Progress:
